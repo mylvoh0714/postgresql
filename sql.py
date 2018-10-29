@@ -11,7 +11,7 @@ db_connector = {
     'user' : 'postgres',
     'dbname' : 'postgres',
     'port' : '5432',
-    'password' : 'fkgp5482'
+    'password' : 'postgres'
 }
 
 connect_string = "host={host} user={user} \

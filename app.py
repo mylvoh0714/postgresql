@@ -9,7 +9,7 @@ db_connector = {
     'user' : 'postgres',
     'dbname' : 'postgres',
     'port' : '5432',
-    'password' : 'fkgp5482'
+    'password' : 'postgres'
 }
 conn_str = "host={host} user={user} \
 dbname={dbname} password={password} port={port}".format(**db_connector)
